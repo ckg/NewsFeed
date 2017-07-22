@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#2B3D4D</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#23303D</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Text color for the title of the book -->
+    <color name="textColorTitle">#2B3D4D</color>
+
+    <!-- Text color for the authors -->
+    <color name="textColorAuthors">#B4BAC0</color>
+
+    <!-- Text color for the date-->
+    <color name="textColorPublishedDate">#04B4B3</color>
+
+    <!-- Text color for the publisher -->
+    <color name="textColorSection">#4A7BA7</color>
+
+
+
+</resources>
